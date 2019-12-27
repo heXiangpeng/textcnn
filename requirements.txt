@@ -1,0 +1,7 @@
+torch
+torchvision
+jieba
+torchtext
+spacy
+pandas
+sklearn
